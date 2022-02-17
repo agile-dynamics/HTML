@@ -1,2 +1,1 @@
-# HTML
-HTML Renderer
+Generate mind map diagrams
